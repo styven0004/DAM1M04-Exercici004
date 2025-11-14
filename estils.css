@@ -845,6 +845,28 @@
     margin-left: auto;
     margin-right: auto;
   }
+  .envoltura-total h1 {
+    padding-left: 0;  
+    max-width: 100%;  
+    text-align: center;
+  }
+
+  .parrafo-intro-final {
+    max-width: 100%; 
+    text-align: center;
+  }
+
+  .bloque-final {
+    display: block;     
+    width: 100%;        
+    max-width: 350px;   
+    margin: 25px auto;  
+    text-align: center;
+  }
+  
+  .bloque-final p {
+    max-width: 100%;    
+  }
   
   #video_skate {
      width: 100%;
